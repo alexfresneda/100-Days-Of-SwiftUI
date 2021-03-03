@@ -1,5 +1,11 @@
 # 100-Days-Of-SwiftUI
 
+This repo has all my files from the 100 Days of SwiftUI course by Paul Hudson.
+I found it useful to browse other people's files when I was stuck during the course, so I hope this helps anyone struggling to complete the challenges.
+
+Most of the apps worked at the time of upload, although some might have slight modifications from later stages of the course (e.g. animations, storing data, layout updates...)
+
+For more info about the course, visit:
 https://www.hackingwithswift.com/100/swiftui
 
 * Days 1 to 15 - Introduction to Swift
